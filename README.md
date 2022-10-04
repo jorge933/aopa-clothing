@@ -58,7 +58,7 @@ Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visuali
 
 </div>
 
-## :hammer*and_wrench: \_Tecnologias*
+## :hammer_and_wrench: _Tecnologias_
 
 <div align="center">
 
@@ -86,7 +86,6 @@ Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visuali
 | Dynamic Template Rendering |
 |  Single Responsability     |
 |  Destructuring Assignment  |
-|  
 
 </div>
 
@@ -108,6 +107,20 @@ Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visuali
 
 ---
 
+## :hammer_and_wrench: _Tecnologias_
+
+<div align="center">
+
+| :globe_with_meridians: FrontEnd |
+| :-----------------------------: |
+| [HTML 5](https://www.w3schools.com/html/) |
+| [CSS3](https://www.w3schools.com/css/) |
+| [JavaScript](https://www.w3schools.com/js/) |
+
+</div>
+
+---
+
 ## :boy: _Autor_
 
 <div align="center">
@@ -118,7 +131,7 @@ Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visuali
  <sub><b>Jorge Vitor Pimentel</b></sub>
 </a>
 
-Desenvolvido com ❤️ por Jorge Vitor Pereira dos Santos 👋🏽 Meus Contatos!
+Desenvolvido com ❤️ por Jorge Vitor Pimentel 👋🏽 Meus Contatos!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jorge_Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-vitor-7192b2210/)
 [![Github Badge](https://img.shields.io/badge/-Jorge_Vitor-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/jorge933)
@@ -128,7 +141,8 @@ Desenvolvido com ❤️ por Jorge Vitor Pereira dos Santos 👋🏽 Meus Contato
 
 ---
 
-## :balance*scale: \_Licença*
+
+## :balance_scale: _Licença_
 
 <div align="center">
 
