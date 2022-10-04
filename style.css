@@ -12,6 +12,25 @@
   --red: #f02222;
 }
 
+html {
+  scrollbar-width: auto;
+  scrollbar-color: #919191 #bd0f0f;
+}
+
+html::-webkit-scrollbar {
+  width: 12px;
+}
+
+html::-webkit-scrollbar-track {
+  background: var(--blue);
+}
+
+html::-webkit-scrollbar-thumb {
+  background-color: #919191;
+  border-radius: 10px;
+  border: 3px solid var(--yellow);
+}
+
 body {
   background-color: #fafafa;
 }
